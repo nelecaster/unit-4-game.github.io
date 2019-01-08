@@ -1,0 +1,28 @@
+
+body {
+    background-image: url("../images/cave.jpg");
+    background-size: cover;
+    
+}
+
+.heading-text {
+    color: #ffffff;
+    text-align: center;
+}
+
+.instructions {
+    width: 50%;
+    left: 25%;
+}
+
+
+#red-crystal {
+    width: 50px;
+    height: auto;
+}
+
+.crystal-image {
+    width: 50px;
+    height: auto;
+}
+
